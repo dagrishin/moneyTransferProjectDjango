@@ -8,8 +8,6 @@ idea
 .installed.cfg
 *.egg
 
-static
-
 dist
 sqlite.db
 db.sqlite3
